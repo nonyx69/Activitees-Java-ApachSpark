@@ -14,8 +14,6 @@ target/
 *.iml
 *.ipr
 
-/src/main/java/com/tyrostudent/intranet/
-
 ### Eclipse ###
 .apt_generated
 .classpath
