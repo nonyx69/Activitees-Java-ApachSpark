@@ -1,4 +1,3 @@
-# Cours Java
+# Activitées Java
 
-## 4 Cours projet java pour mettre le cour en pratique
-### firstprojet -> Main == cour
+## 4 activitées  java pour mettre le cour en pratique
